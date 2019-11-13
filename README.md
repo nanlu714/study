@@ -1,7 +1,7 @@
 # springcloud-app
 
 
-# 仅供学习使用
+# 仅供学习使用 原作者项目地址https://gitee.com/vmaps/springcloud-app
 
 ## 系统介绍
 
