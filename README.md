@@ -57,6 +57,3 @@
 - 13.启动链路追踪springcloud-app-zipkin 访问端口9411
 - 14.启动springcloud-app-zuul访问端口/html/login.html
 
-## qq交流群
-
-- 74745979
